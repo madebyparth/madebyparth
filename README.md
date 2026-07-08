@@ -29,6 +29,7 @@ Python • FastAPI • Node.js • MongoDB • ESP32 • WebSockets • Git
 ## 📌 Featured Projects
 
 - 🤖 Nova — Real time AI Voice Assistant powered by ESP32 & Gemini Live
+- 🧠 Learnect — An education platform currently under active development.
 - 🎓 StudentsXchange — Marketplace for students
 - ⚡ IntelliPlug — AI Plugin Platform
 - 📁 MediaNest — File hosting & developer platform
