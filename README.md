@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hey, I'm Parth 👋
 
-<!--
-**madebyparth/madebyparth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I enjoy building products that solve real problems.
 
-Here are some ideas to get you started:
+Whether it's an AI voice assistant on an ESP32, a student marketplace, or a developer platform, I'm always exploring how software can become something people genuinely use.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I believe the most exciting part of programming isn't writing code it's turning an idea into a product.
+
+## 🛠 What I Build
+
+🤖 AI powered applications
+
+📡 Embedded Systems & IoT
+
+🌐 Fullstack Products
+
+⚡ APIs & Backend Systems
+
+🚀 SaaS & Startup Experiments
+
+---
+
+## ⚙ Tech I Work With
+
+Python • FastAPI • Node.js • MongoDB • ESP32 • WebSockets • Git
+
+---
+
+## 📌 Featured Projects
+
+- 🤖 Nova — Real time AI Voice Assistant powered by ESP32 & Gemini Live
+- 🎓 StudentsXchange — Marketplace for students
+- ⚡ IntelliPlug — AI Plugin Platform
+- 📁 MediaNest — File hosting & developer platform
+
+---
+
+> I build because it's fun. If it solves a real problem too, even better.
