@@ -1,39 +1,56 @@
 # Hey, I'm Parth 👋
 
-I enjoy building products that solve real problems.
+I'm a full-stack developer who's recently fallen down the embedded systems rabbit hole.
 
-Whether it's an AI voice assistant on an ESP32, a student marketplace, or a developer platform, I'm always exploring how software can become something people genuinely use.
+Lately I've been building AI-powered hardware with the ESP32, experimenting with real-time voice assistants, and trying to turn random ideas into products people might actually use.
 
-I believe the most exciting part of programming isn't writing code it's turning an idea into a product.
-
-## 🛠 What I Build
-
-🤖 AI powered applications
-
-📡 Embedded Systems & IoT
-
-🌐 Fullstack Products
-
-⚡ APIs & Backend Systems
-
-🚀 SaaS & Startup Experiments
+Right now I'm learning PCB design because I eventually want to replace jumper wires and dev boards with something I'd actually be proud to manufacture.
 
 ---
 
-## ⚙ Tech I Work With
+## 🚀 Current Interests
 
-Python • FastAPI • Node.js • MongoDB • ESP32 • WebSockets • Git
+🤖 AI & LLM Applications
+
+📡 Embedded Systems & IoT
+
+🌐 Full-Stack Web Development
+
+⚙️ Backend Systems & APIs
+
+🛠️ PCB Design (currently learning)
+
+---
+
+## ⚙️ Tech Stack
+
+**Languages:** Python • JavaScript • C++
+
+**Backend:** FastAPI • Flask • MongoDB • WebSockets
+
+**Embedded:** ESP32 • Arduino
+
+**Tools:** Git • GitHub • VS Code
 
 ---
 
 ## 📌 Featured Projects
 
-- 🤖 Nova — Real time AI Voice Assistant powered by ESP32 & Gemini Live
-- 🧠 Learnect — An education platform currently under active development.
-- 🎓 StudentsXchange — Marketplace for students
-- ⚡ IntelliPlug — AI Plugin Platform
-- 📁 MediaNest — File hosting & developer platform
+### 🤖 Nova
+A real-time AI voice assistant built with an ESP32, Gemini Live, and FastAPI.
+
+### 🎓 StudentsXchange
+A marketplace where students can buy and sell study materials.
+
+### 🧠 Learnect *(WIP)*
+An education platform I'm currently building.
+
+### ⚡ IntelliPlug *(WIP)*
+An AI plugin platform.
+
+### 📁 MediaNest
+A developer focused file hosting platform.
 
 ---
 
-> I build because it's fun. If it solves a real problem too, even better.
+> Building things is fun. Turning them into products is even better.
