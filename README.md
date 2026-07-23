@@ -4,7 +4,7 @@ I'm a full-stack developer interested in building across software and hardware.
 
 I work mainly with Python and JavaScript, building backend systems, web applications, and APIs. More recently, I've been exploring embedded systems with the ESP32, real-time audio and AI, and PCB design.
 
-Most of my projects start as experiments—usually because I want to understand how something works—and end up becoming much larger than originally planned.
+Most of my projects start as experiments usually because I want to understand how something works, and end up becoming much larger than originally planned.
 
 ---
 
