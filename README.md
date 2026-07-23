@@ -1,4 +1,4 @@
-# Hey, I'm Parth
+# Hey, I'm Parth 👋
 
 I'm a full-stack developer interested in building across software and hardware.
 
