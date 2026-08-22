@@ -29,7 +29,7 @@ Most of my projects start as experiments because I want to understand how someth
 ### Backend & Web
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
@@ -60,7 +60,7 @@ A real-time AI voice assistant built around an ESP32.
 
 ---
 
-### 🛍️ SIXN
+### 🛍️ [SIXN](https://github.com/madebyparth/sixn)
 
 A full-stack fashion e-commerce platform with:
 
@@ -79,12 +79,13 @@ A file-hosting experiment using Telegram as an unconventional storage layer.
 - 📤 Chunked uploads
 - ⚡ Concurrent transfers
 - 🎬 Media streaming
+- 💸 Recurring Subscriptions (via Razorpay)
 - 🔌 REST API
 - ☁️ Distributed-ish storage architecture
 
 ---
 
-### 🪄 Invisible Cloak
+### 🪄 [Invisible Cloak](https://github.com/madebyparth/invisibility-cloak)
 
 A real-time computer vision experiment using Python + OpenCV.
 
@@ -117,15 +118,6 @@ Contributed **3 merged pull requests** to [DevBoard](https://github.com/anoopcod
 - AI + hardware integration
 - Computer vision
 - Better system architecture
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=madebyparth&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=madebyparth&layout=compact&hide_border=true&theme=transparent" height="165"/>
-</p>
 
 ---
 
